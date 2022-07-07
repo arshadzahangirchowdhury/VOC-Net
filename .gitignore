@@ -5,30 +5,15 @@ __pycache__/
 
 # Directories
 
-/March ML Codes
-/data
-/interfaces/mixture_THz/models
-/interfaces/VOC_Net/keras_hp_tuner
-/interfaces/mixture_THz/results
-/interfaces/Simulator
 
-# results
-Experimental_Validation_Matrix_Results.txt
 
-# C extensions
-*.so
 
 # Data files
 *.csv
 *.h5
 *.npy
 *.xlsx
-# Images
 
-*.png
-*.PNG
-*.jpg
-*.jpeg
 
 # Distribution / packaging
 .Python
