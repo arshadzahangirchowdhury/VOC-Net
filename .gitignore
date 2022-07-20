@@ -9,7 +9,7 @@ __pycache__/
 
 
 # Data files
-*.csv
+
 *.h5
 *.npy
 *.xlsx

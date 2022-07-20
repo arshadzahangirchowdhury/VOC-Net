@@ -44,7 +44,7 @@ from aimos.misc.aperture import publication_fig
 
 
 
-def multiclass_roc_auc_score(y_test, y_pred, target, average="macro", figsize = (12, 8), dpi=300 ):
+def multiclass_roc_auc_score(y_test, y_pred, target, average="macro", figsize = (12, 8), dpi=150 ):
     '''function for scoring roc auc score for multi-class'''
     
     lb = LabelBinarizer()
@@ -60,8 +60,23 @@ def multiclass_roc_auc_score(y_test, y_pred, target, average="macro", figsize = 
     
     c_ax.plot(fpr, fpr, 'b-', label = 'Random Guessing')    
     c_ax.legend()
-    c_ax.set_xlabel('False Positive Rate')
-    c_ax.set_ylabel('True Positive Rate')
+    c_ax.set_xlabel('False Positive Rate', weight ='bold', fontsize = 15)
+    c_ax.set_ylabel('True Positive Rate', weight ='bold', fontsize = 15)
+    
+    c_ax.xaxis.set_tick_params(which='major', 
+                                 size=12, 
+                                 width=1, 
+                                 direction='out',
+                                 labelsize=15)
+
+
+    c_ax.yaxis.set_tick_params(which='major', 
+                             size=12, 
+                             width=1, 
+                             direction='out',
+                             labelsize=15)
+
+    
 
     plt.close()
     
