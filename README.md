@@ -14,4 +14,6 @@ Volatile Organic Compound Classification Network in 220-330 GHz (7.33-11 1/cm) f
 Machine learning tools for classifying rotational/THz spectra.
 
 
-&copy; M Arshad Zahangir Chowdhury
+# License
+
+MIT License.
