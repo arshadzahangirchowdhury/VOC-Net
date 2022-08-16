@@ -39,7 +39,7 @@ from vocnet.misc.utils import clf_post_processor
 
 
 
-from aimos.misc.aperture import publication_fig
+from vocnet.misc.aperture import publication_fig
 
 
 
