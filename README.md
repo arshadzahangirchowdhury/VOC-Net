@@ -11,7 +11,7 @@ Volatile Organic Compound Classification Network in 220-330 GHz (7.33-11 1/cm) f
   <img width="750" src="imgs/VOC_Net Flowchart.JPG">
 </p>
 
-Machine learning tools for classifying rotational/THz spectra.
+A deep learning/machine learning tool for classifying rotational/THz spectra.
 
 
 # License
