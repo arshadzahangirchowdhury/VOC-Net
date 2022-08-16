@@ -33,8 +33,8 @@ from sklearn.metrics import roc_auc_score
 
 import itertools
 
-from aimos.misc.utils import classifier_internals
-from aimos.misc.utils import clf_post_processor
+from vocnet.misc.utils import classifier_internals
+from vocnet.misc.utils import clf_post_processor
 
 
 
