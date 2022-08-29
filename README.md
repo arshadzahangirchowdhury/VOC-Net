@@ -4,6 +4,7 @@
 
 # VOC-Net
 Volatile Organic Compound Classification Network in 220-330 GHz (7.33-11 1/cm) frequency range.
+[https://www.mdpi.com/2076-3417/12/17/8447/htm](Read our paper.)
 
 
 
