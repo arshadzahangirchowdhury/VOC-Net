@@ -18,3 +18,6 @@ A deep learning/machine learning tool for classifying rotational/THz spectra.
 # License
 
 MIT License.
+
+# Publication
+Chowdhury, M. Arshad Zahangir, Timothy E. Rice, and Matthew A. Oehlschlaeger. 2022. "VOC-Net: A Deep Learning Model for the Automated Classification of Rotational THz Spectra of Volatile Organic Compounds" Applied Sciences 12, no. 17: 8447. https://doi.org/10.3390/app12178447
