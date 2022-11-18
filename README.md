@@ -14,7 +14,9 @@ Volatile Organic Compound Classification Network in 220-330 GHz (7.33-11 1/cm) f
 
 A deep learning/machine learning tool for classifying rotational/THz spectra.
 
+## Funding
 
+This work was supported by the National Science Foundation under Grant CBET-1851291.
 # License
 
 MIT License.
